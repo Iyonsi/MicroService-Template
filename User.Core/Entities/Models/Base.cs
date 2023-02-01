@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace User.Core.Entities.Models
 {
-    Public class Base
+    public class Base
     {
     }
 }
